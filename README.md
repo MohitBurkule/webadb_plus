@@ -4,7 +4,7 @@
 
 A library and application for browsers to interact with Android devices via ADB.
 
-[🚀 Online Demo](https://yume-chan.github.io/ya-webadb)
+[🚀 Online Demo](https://mohitburkule.github.io/webadb_plus)
 
 ## Compatibility
 
